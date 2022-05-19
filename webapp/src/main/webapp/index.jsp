@@ -135,7 +135,7 @@ input[type=submit]:hover {
 </ead>
 <body>
 
-<marquee><h1>Softconsists</h1></marquee>
+<marquee><h1>Softconsists IT Organization</h1></marquee>
 <p>"Sofrtware organization Ashutosh Bambal"</p>
 
 <div class="container">
