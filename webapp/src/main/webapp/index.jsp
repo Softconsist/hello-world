@@ -158,19 +158,6 @@ input[type=submit]:hover {
         </a>
       </div>
 
-                         <div class="col">
-			        <a href="#" class="fb btn">
-          			<i class="fa fa-facebook fa-fw"></i> Login with Facebook
-       				  </a>
-       				 <a href="#" class="twitter btn">
-          			<i class="fa fa-twitter fa-fw"></i> Login with Twitter
-        			</a>
-        			<a href="#" class="google btn"><i class="fa fa-google fa-fw">
-          			</i> Login with Google+
-       			 </a>
-     			 </div>
-
-
       <div class="col">
         <div class="hide-md-lg">
           <p>Or sign in manually:</p>
@@ -195,7 +182,7 @@ input[type=submit]:hover {
     </div>
   </div>
 </div>
-<marquee> <B><h1>Thank You !!</B><h1></marquee>
+<marquee> <B><h1>Thank You Wisit again all the best!!</B><h1></marquee>
 </body>
 </html>
 
