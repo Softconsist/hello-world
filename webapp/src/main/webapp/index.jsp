@@ -182,7 +182,7 @@ input[type=submit]:hover {
     </div>
   </div>
 </div>
-<marquee> <B><h1>Thank You Wisit again all the best(dogala pan band kar bhai)</B><h1></marquee>
+<marquee> <B><h1>************">>>>>>>>>>>>Thank You Wisit again all the best<<<<<<<<<<<<<<<<<*************</B><h1></marquee>
 </body>
 </html>
 
