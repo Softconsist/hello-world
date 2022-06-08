@@ -135,7 +135,7 @@ input[type=submit]:hover {
 </ead>
 <body>
 
-<marquee><h1>Softconsists IT Organization</h1></marquee>
+	<marquee><h1>Some partners do not ask for your consent to process your data, instead, they rely on their legitimate business interest. Personal data processed includes but is not limited to cookies, IP addresses, and URLs visited. View our list of partners to see the purposes they believe they have a legitimate interest for and object to legitimate interests on a per vendor basis. Manage your settings and object to purposes as a legitimate interest in general.</h1></marquee>
 <p>"Sofrtware organization Ashutosh Bambal"</p>
 
 <div class="container">
